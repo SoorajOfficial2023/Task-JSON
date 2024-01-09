@@ -1,0 +1,13 @@
+{
+    "count": 1,
+    "emp_list": [
+        {
+            "id_no": 123,
+            "name": "sooraj",
+            "age": 25,
+            "number": 8111822012,
+            "experiance": 0,
+            "grade": "A"
+        }
+    ]
+}
